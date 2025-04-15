@@ -1,3 +1,15 @@
+// University Management System.
+// Using OOP(Object oriented Programming) Concepts.
+// User Choice Driven Workflow of Code. 
+// Code Overview:
+// 1) Add Department Of University.
+// 2) Show Department entered By User.
+// 3) Enter Specific Department For:
+// 		a) Add Teachers.
+// 		b) Add Students.
+// 		c) Add Courses.
+// 		d) Display specific Function.
+
 #include<iostream>
 #include<string>
 using namespace std;
