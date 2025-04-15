@@ -26,7 +26,7 @@ srand(time(0));
 num=rand()%500;
 a:
 cout<<"------------------------------"<<endl;
-cout<<"| SELECT MOVIE THEATER: |"<<endl;
+cout<<"| SELECT Cinema Loactaion: |"<<endl;
 cout<<"------------------------------"<<endl;
 cout<<endl<<endl;
 cout<<"Enter 1 to Watch Movie in LAHORE"<<endl;
